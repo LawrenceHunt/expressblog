@@ -1,0 +1,24 @@
+{
+  "name": "expressblog",
+  "version": "1.0.0",
+  "description": "A Blog for keeping track of fitness",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LawrenceHunt/expressblog.git"
+  },
+  "keywords": [
+    "express",
+    "blog",
+    "fitness"
+  ],
+  "author": "Lawrence Hunt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LawrenceHunt/expressblog/issues"
+  },
+  "homepage": "https://github.com/LawrenceHunt/expressblog#readme"
+}
