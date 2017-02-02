@@ -1,24 +1,23 @@
 {
-  "name": "expressblog",
+  "name": "treehouse-express-basics",
   "version": "1.0.0",
-  "description": "A Blog for keeping track of fitness",
+  "description": "This repo features an express app to serve as demo in the Express Basics course on Treehouse.",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LawrenceHunt/expressblog.git"
+    "url": "https://github.com/hdngr/treehouse-express-basics.git"
   },
-  "keywords": [
-    "express",
-    "blog",
-    "fitness"
-  ],
-  "author": "Lawrence Hunt",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LawrenceHunt/expressblog/issues"
+    "url": "https://github.com/hdngr/treehouse-express-basics/issues"
   },
-  "homepage": "https://github.com/LawrenceHunt/expressblog#readme"
+  "homepage": "https://github.com/hdngr/treehouse-express-basics",
+  "dependencies": {
+    "express": "^4.13.0",
+    "jade": "^1.11.0"
+  }
 }
